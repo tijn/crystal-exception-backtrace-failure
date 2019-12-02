@@ -1,0 +1,13 @@
+name: exception-backtrace-failure
+version: 0.1.0
+
+authors:
+  - Tijn Schuurmans <tijn@tijnschuurmans.nl>
+
+targets:
+  exception-backtrace-failure:
+    main: src/show-exception-with-backtrace.cr
+
+crystal: 0.31.1
+
+license: MIT
