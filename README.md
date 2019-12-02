@@ -9,7 +9,3 @@ make
 ./exec-minus-a
 # oh no! :-o
 ```
-
-## Contributors
-
-- [Tijn Schuurmans](https://github.com/tijn) - creator and maintainer
